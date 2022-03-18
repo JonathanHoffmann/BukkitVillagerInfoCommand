@@ -1,0 +1,9 @@
+name: VillagerInfoCommand
+main: me.Jonnyfant.VillagerInfoCommand.VillagerInfoCommand
+author: Jonnyfant
+version: 1.0
+commands:
+  VillagerInfo:
+    description: Gives you some info about the closest villager.
+    usage: /<command>
+    permission: VillagerInfoCommand.use
